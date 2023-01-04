@@ -2,7 +2,11 @@ A simple Flutter App that consist in a login(simple check if input email and inp
 
 
 
----LOGIN--- ![image](https://user-images.githubusercontent.com/82907329/210651043-eaa895f2-3bb0-41e4-9383-27d7b4128c13.png) 
+---LOGIN--- 
+
+
+
+![image](https://user-images.githubusercontent.com/82907329/210651043-eaa895f2-3bb0-41e4-9383-27d7b4128c13.png) 
 
 
 
@@ -19,9 +23,15 @@ A simple Flutter App that consist in a login(simple check if input email and inp
 
 
 ---VIEW MORE PAGE---
+
+
+
 ![image](https://user-images.githubusercontent.com/82907329/210651321-262674f6-6d75-4b39-aaac-4ae41d4c4326.png)
 
 
 
 ---PROFILE PAGE---
+
+
+
 ![image](https://user-images.githubusercontent.com/82907329/210651397-ed9e7387-78af-4172-b05f-da0194177639.png)
