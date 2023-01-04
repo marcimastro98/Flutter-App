@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:login_page/home.dart';
+import 'package:login_page/profile_page.dart';
 
 class HomePage extends StatefulWidget {
   final String email;
@@ -11,6 +12,8 @@ class HomePage extends StatefulWidget {
 
 // ignore: camel_case_types
 class _homePageState extends State<HomePage> {
+  List<Widget> pages = [const Home(), const ProfilePage()];
+
   int currentPage = 0;
   static const TextStyle optionStyle =
       TextStyle(fontSize: 30, fontWeight: FontWeight.bold);
@@ -50,7 +53,7 @@ class _homePageState extends State<HomePage> {
           Align(
               alignment: Alignment.topCenter,
               child: _widgetOptions.elementAt(currentPage)),
-          const Align(alignment: Alignment.center, child: Home()),
+          Align(alignment: Alignment.center, child: pages[currentPage]),
         ],
       ),
       floatingActionButton: FloatingActionButton(
