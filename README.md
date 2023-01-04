@@ -2,13 +2,12 @@ A simple Flutter App that consist in a login(simple check if input email and inp
 
 
 
----LOGIN---
-![image](https://user-images.githubusercontent.com/82907329/210651043-eaa895f2-3bb0-41e4-9383-27d7b4128c13.png)
-
-
-
----HOME PAGE---
+---LOGIN--- ![image](https://user-images.githubusercontent.com/82907329/210651043-eaa895f2-3bb0-41e4-9383-27d7b4128c13.png) ---HOME PAGE---
 ![image](https://user-images.githubusercontent.com/82907329/210651221-210274fe-6f28-4363-829c-3e63f6235af7.png)
+
+
+
+
 
 
 
